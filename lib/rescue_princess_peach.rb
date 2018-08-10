@@ -1,2 +1,2 @@
 #rescue_princess_peach
-puts status
+#puts status
